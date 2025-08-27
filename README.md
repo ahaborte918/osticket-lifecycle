@@ -22,11 +22,12 @@ In this project we will cover intake, ticket assignment and team communication, 
 
 - Windows 11</b> (24H2)
 
-<h2>End-User to HelpDesk Workflow</h2>
-STEP 1 - Create tickets from the end-user perspective.
-STEP 2 - Manage and resolve tickets from the Help Desk agent and Admin  perspective.
-STEP 3 - Understand ticket properties: Priority, Department, SLA, Assignee.
-STEP 4 - Explore permissions and department-based access control.
+<h2>Ticket Lifecycle Stages</h2>
+
+- STEP 1 - Intake
+- STEP 2 - Assignment & communication
+- STEP 3 - Working the issue
+- STEP 4 - Resolution
 
  <h2>Lifecycle Stages</h2>
  </p>
