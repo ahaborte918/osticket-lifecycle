@@ -33,15 +33,21 @@ In this project we will cover intake, ticket assignment and team communication, 
  </p>
  In order to create tickets, users have to enter the ticket portal and log in if necessary. Within the portal, the user can submit a ticket request and detail their IT related issues. Here, I have created three tickets detailing a variety of problems that can appear as tickets in a real environment. Tickets are created by using a Help Topic, a descriptive outline of the issue, and the details of the issue that are all written as if it were an email.
 </p>
-<img src="https://i.imgur.com/kTlhwFo.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img width="1920" height="940" alt="osTicket Lifecycle 1" src="https://github.com/user-attachments/assets/939413a6-4d5c-4408-9e07-8c7f7a5c4175" />
 
+<img width="1920" height="946" alt="osTicket Lifecycle 2" src="https://github.com/user-attachments/assets/2f5a92dd-ecf1-4434-9af5-debb0917f754" />
+</p>
 From the perspective of an admin, they will receive the ticket requests from their panel once they are sent. The admins can then reassign tickets to an agent or appropriate team. The severity level of the issue is determined and assigned accordingly to make sure appropriate tickets are solved within an SLA. Here, Jane viewed this ticket and assigned it to the System Administrators and changed the severity level to Emergency. 
  </p>
-<img src="https://i.imgur.com/8J4gYRr.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img width="1596" height="830" alt="osTicket Lifecycle 3" src="https://github.com/user-attachments/assets/ba7cab2f-0bcf-4eeb-8fde-ec7a70bd861b" />
 
+<img width="1582" height="859" alt="osTicket Lifecycle 4" src="https://github.com/user-attachments/assets/6be8982e-518b-4887-987b-5a7eb75bbb60" />
+</p>
 When resolving tickets, it is important to have strong communication. One has to communicate with their team and the affected users. Tickets come and go with different issues and are assigned appropriately to different people. One of these tickets are assigned to John from Jane and Jane herself was able to manage a ticket by herself. Documentation is crucial to a successful environment. Tickets need to be documented properly so they can be used as reference if a similar issue shows up in the future.
 </p>
-<img src="https://i.imgur.com/Y1OaeVl.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img width="1517" height="654" alt="osTicket Lifecycle 5" src="https://github.com/user-attachments/assets/64bb32b4-0525-49b7-9447-054241886110" />
 
+<img width="1520" height="799" alt="osTicket Lifecycle 6" src="https://github.com/user-attachments/assets/b557a87a-afd4-4c58-815b-3a1f8da1ca33" />
+</p>
 
 <h2>Final Thoughts</h2>
