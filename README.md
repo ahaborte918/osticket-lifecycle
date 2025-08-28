@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This project outlines the osTicket ticket lifecycle, demonstrating how support requests move through intake, assignment and communication, active issue management, and final resolution. It highlights the structured workflow that ensures efficient and transparent handling of IT service requests.<br />
+This project outlines the osTicket ticket lifecycle, demonstrating how support requests move through the various lifecycle stages. It highlights the structured workflow that ensures efficient and transparent handling of IT service requests.<br />
 
 
 <h2>Prerequisites</h2>
@@ -50,3 +50,4 @@ When resolving tickets, it is important to have strong communication. One has to
 </p>
 
 <h2>Final Thoughts</h2>
+This project deepened my understanding of the full ticket lifecycle in osTicket, from intake to resolution, and how each stage ensures efficient issue management. Across all three osTicket projects: pre-requistes, post-install configuration, and ticket lifecycle, I gained comprehensive hands-on experience in deploying, customizing, and managing an open-source help desk system to support real-world IT service operations.
